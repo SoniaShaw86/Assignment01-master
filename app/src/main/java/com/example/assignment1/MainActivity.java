@@ -11,7 +11,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 //ij
 public class MainActivity extends AppCompatActivity {
-
+//comment
     EditText field1,field2;
     TextView result;
     Button calculate,mode;
